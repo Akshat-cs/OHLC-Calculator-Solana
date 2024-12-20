@@ -1,6 +1,6 @@
-# Bitquery Solana DEX Analysis
+# Solana Token OHLC Calculator
 
-This repository contains a Node.js script to interact with the Bitquery API for analyzing Solana DEX trades. It fetches trade percentiles and calculates OHLC (Open, High, Low, Close) data for a specified pair of tokens.
+This repository contains a Node.js script to interact with the Bitquery API for analyzing Solana DEX trades and then calculating OHLC / K-line data. It fetches trade percentiles and calculates OHLC (Open, High, Low, Close) data for a specified pair of tokens.
 
 ## Features
 
@@ -19,7 +19,7 @@ This repository contains a Node.js script to interact with the Bitquery API for 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/ohlc-solana.git
+   git clone https://github.com/Akshat-cs/OHLC-Calculator-Solana.git
    ```
 
 2. **Install dependencies**:
