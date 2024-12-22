@@ -10,7 +10,7 @@ This repository contains a Node.js script to interact with the Bitquery API for 
 ## Prerequisites
 
 - Node.js installed on your machine.
-- A Bitquery Streaming API token.
+- A Bitquery Streaming API token. Get it using these [steps](https://docs.bitquery.io/docs/authorisation/how-to-generate/)
 - `dotenv` package for environment variable management.
 - `axios` package as HTTP client.
 
